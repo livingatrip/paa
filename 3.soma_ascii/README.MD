@@ -1,0 +1,1 @@
+Desenvolva uma biblioteca para soma de strings. A soma de strings se caracteriza pela soma dos valores correspondentes as letras na tabela ASCII.
